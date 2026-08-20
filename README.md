@@ -2,9 +2,9 @@
 
 # Software Engineer
 
-### Backend · AI · Web · macOS
+### AI/LLM · Backend · Web · macOS
 
-专注于构建稳定、实用、易部署的软件系统，具备从后端基础设施、数据与中间件，到 AI 应用、Web/Edge 服务和 macOS 原生工具的工程实践经验。
+重点关注 AI/LLM 应用与工程化落地，同时具备后端基础设施、数据与中间件、Web/Edge 服务和 macOS 原生工具的实践经验，习惯把模型能力融入稳定、实用、易部署的软件系统。
 
 </div>
 
@@ -20,6 +20,21 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+</p>
+
+## AI / LLM 能力
+
+- **LLM 应用集成**：使用 OpenAI-compatible API 将大语言模型接入 Go/Python 应用，围绕请求封装、上下文组织、结果处理和业务流程进行实践。
+- **Memory 与上下文**：关注对话记忆、长期上下文和用户信息管理，探索 Memory 组件在连续交互与个性化应用中的使用方式。
+- **Prompt 与应用编排**：围绕任务拆解、结构化输出、上下文构造和错误处理设计模型调用流程，让模型能力更容易接入真实功能。
+- **机器学习基础**：通过 Jupyter/Python 实践数据预处理、线性回归、逻辑回归、决策树、KNN、神经网络和梯度下降等基础方法。
+- **AI 工程化思维**：关注模型调用的可维护性、可观测性、成本与稳定性，并结合后端服务、缓存和数据存储构建可落地的 AI 功能。
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-应用集成-7C3AED?style=flat-square" alt="LLM application integration" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Memory-上下文管理-2563EB?style=flat-square" alt="Memory and context" />
+  <img src="https://img.shields.io/badge/Machine_Learning-基础实践-059669?style=flat-square" alt="Machine learning" />
 </p>
 
 ### 数据库与中间件
@@ -47,7 +62,7 @@
 - **后端与系统开发**：设计和实现 Go/Python 服务、基础组件、代理服务和数据采集系统，关注并发、性能、稳定性与可维护性。
 - **数据与中间件**：围绕 MySQL、Redis、MongoDB、Elasticsearch 和 Kafka 处理数据存储、缓存、搜索、消息传递与系统集成。
 - **Web 与 Edge**：构建 TypeScript/JavaScript Web 产品，实践 OAuth、缓存、Docker、静态部署以及 Cloudflare Workers/Pages 等边缘服务。
-- **AI 与机器学习**：探索 LLM 应用、OpenAI API、Memory 组件和机器学习基础，将模型能力与实际软件功能结合。
+- **AI 与机器学习**：将 AI 作为重点实践方向，探索 LLM API 集成、Prompt/上下文编排、Memory 机制、结构化结果处理和模型能力在业务功能中的落地；同时通过 Python/Jupyter 掌握监督学习、基础神经网络和数据预处理流程。
 - **原生 macOS**：使用 Swift 构建轻量级菜单栏工具，关注快捷键交互、本地数据处理和高效的桌面使用体验。
 - **工程效率**：重视清晰架构、自动化部署、问题定位和渐进式迭代，持续将想法转化为可运行的软件。
 
@@ -65,7 +80,7 @@
 
 ## 关注方向
 
-`Backend Systems` · `AI Applications` · `Cloud & Edge` · `Developer Tools` · `Native macOS`
+`LLM Applications` · `AI Engineering` · `Machine Learning` · `Backend Systems` · `Cloud & Edge` · `Native macOS`
 
 <div align="center">
 
