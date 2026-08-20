@@ -1,44 +1,59 @@
 <div align="center">
 
-# Software Engineer
+# AI × Software Engineering
 
-### AI/LLM · Backend · Web · macOS
-
-重点关注 AI/LLM 应用与工程化落地，同时具备后端基础设施、数据与中间件、Web/Edge 服务和 macOS 原生工具的实践经验，习惯把模型能力融入稳定、实用、易部署的软件系统。
+### AI Engineering · Backend Systems · Native Tools
 
 </div>
 
-## 技术栈
+我关注 AI 如何从一次模型交互，变成可以持续运行的软件能力。Prompt、上下文、Memory 和结构化输出是入口，真正决定使用体验的，还有数据流、缓存、错误处理、稳定性与清晰的工程边界。
 
-### 编程语言
+与此同时，我也持续实践后端系统、数据与中间件、Web/Edge 服务和 macOS 原生开发。这些能力共同指向一件事：把想法做成真实、可靠、可以长期迭代的产品。
+
+**让 AI 从一次模型调用，变成稳定、可复用的软件能力。**
+
+---
+
+## 我在做的事
+
+**AI 应用与工作流**
+
+围绕 Prompt、上下文构造、Memory、结构化输出和任务拆解，探索模型如何参与连续任务，而不只是完成一次问答。关注交互过程中的信息组织、结果约束和异常处理，让 AI 更自然地进入实际工作流。
+
+**AI 的价值，不只在于生成内容，更在于完成真实任务。**
+
+**AI 工程与基础设施**
+
+当模型能力进入软件系统，缓存、存储、搜索、消息传递、可观测性、成本和稳定性都会成为体验的一部分。我习惯从后端工程视角理解 AI 功能，把不确定的模型输出放进可维护、可追踪的系统流程。
+
+**模型决定能力上限，工程决定它能否稳定工作。**
+
+**原生效率工具**
+
+使用 Swift 探索 macOS 原生工具开发，关注本地能力、键盘优先交互、隐私和响应速度。希望工具在需要时立刻出现，完成任务后安静退场，而不是成为新的操作负担。
+
+**好工具应该缩短路径，让注意力回到真正重要的事情上。**
+
+---
+
+## 技能地图
+
+**AI**
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=flat-square" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Context_%26_Memory-2563EB?style=flat-square" alt="Context and Memory" />
+  <img src="https://img.shields.io/badge/Machine_Learning-059669?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+**Backend**
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
-</p>
-
-## AI / LLM 能力
-
-- **Memory 与上下文**：关注对话记忆、长期上下文和用户信息管理，探索 Memory 组件在连续交互与个性化应用中的使用方式。
-- **Prompt 与应用编排**：围绕任务拆解、结构化输出、上下文构造和错误处理设计模型调用流程，让模型能力更容易接入真实功能。
-- **机器学习基础**：通过 Jupyter/Python 实践数据预处理、线性回归、逻辑回归、决策树、KNN、神经网络和梯度下降等基础方法。
-- **AI 工程化思维**：关注模型调用的可维护性、可观测性、成本与稳定性，并结合后端服务、缓存和数据存储构建可落地的 AI 功能。
-
-<p>
-  <img src="https://img.shields.io/badge/LLM-应用集成-7C3AED?style=flat-square" alt="LLM application integration" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Memory-上下文管理-2563EB?style=flat-square" alt="Memory and context" />
-  <img src="https://img.shields.io/badge/Machine_Learning-基础实践-059669?style=flat-square" alt="Machine learning" />
-</p>
-
-### 数据库与中间件
-
-<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -46,43 +61,68 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
 </p>
 
-### 平台与工具
+**Product & Platform**
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
+
+---
 
 ## 工程经验
 
-- **后端与系统开发**：设计和实现 Go/Python 服务、基础组件、代理服务和数据采集系统，关注并发、性能、稳定性与可维护性。
-- **数据与中间件**：围绕 MySQL、Redis、MongoDB、Elasticsearch 和 Kafka 处理数据存储、缓存、搜索、消息传递与系统集成。
-- **Web 与 Edge**：构建 TypeScript/JavaScript Web 产品，实践 OAuth、缓存、Docker、静态部署以及 Cloudflare Workers/Pages 等边缘服务。
-- **AI 与机器学习**：将 AI 作为重点实践方向，探索 LLM API 集成、Prompt/上下文编排、Memory 机制、结构化结果处理和模型能力在业务功能中的落地；同时通过 Python/Jupyter 掌握监督学习、基础神经网络和数据预处理流程。
-- **原生 macOS**：使用 Swift 构建轻量级菜单栏工具，关注快捷键交互、本地数据处理和高效的桌面使用体验。
-- **工程效率**：重视清晰架构、自动化部署、问题定位和渐进式迭代，持续将想法转化为可运行的软件。
+**后端系统与基础组件**
+
+使用 Go、Python 等语言设计和实现服务、代理、数据采集与基础组件。开发过程中关注并发处理、性能分析、故障定位和边界设计，让系统不仅能够运行，也便于维护和继续演进。
+
+**数据、中间件与稳定性**
+
+围绕 MySQL、Redis、MongoDB、Elasticsearch 和 Kafka 处理数据存储、缓存、检索、消息传递与系统集成。根据访问模式和数据特征选择合适的组件，并关注系统在异常、延迟和负载变化下的表现。
+
+**AI 与现有架构结合**
+
+将 Prompt、上下文、Memory 和结构化输出放进完整的软件流程中思考，利用已有的后端、缓存与数据能力管理信息流和运行状态。重点关注 AI 功能的可维护性、可观测性、成本和失败后的处理方式。
+
+---
 
 ## 个人项目
 
-### [Lapp](../Lapp)
+### Lapp · Native macOS Quick Launcher
 
-一个使用 Swift 构建的原生 macOS 快速启动工具，面向键盘优先的高效工作流。
+[![CI](https://github.com/qshine/Lapp/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/qshine/Lapp/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/qshine/Lapp?style=flat-square)](https://github.com/qshine/Lapp/releases/latest)
+![macOS 13+](https://img.shields.io/badge/macOS-13%2B-000000?style=flat-square&logo=apple&logoColor=white)
+[![MIT](https://img.shields.io/badge/License-MIT-2563EB?style=flat-square)](https://github.com/qshine/Lapp/blob/main/LICENSE)
 
-- 全局快捷键唤起应用，快速搜索并启动本地应用。
-- 支持内联计算器和 Web 搜索 fallback。
-- 提供本地剪贴板历史，支持浏览、搜索和再次复制文本。
-- 通过本地记录优化重复搜索时的应用排序。
-- 采用菜单栏应用形态，强调轻量、快速和本地化体验。
+频繁切换应用、计算简单表达式或找回刚刚复制的文字，看起来都是小动作，却会不断打断工作流。Lapp 想把这些动作收进一个轻量、键盘优先的入口里：需要时通过快捷键出现，完成后立即回到原来的任务。
 
-## 关注方向
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qshine/Lapp/main/docs/images/lapp-launcher.png" width="760" alt="Lapp launcher" />
+</p>
 
-`LLM Applications` · `AI Engineering` · `Machine Learning` · `Backend Systems` · `Cloud & Edge` · `Native macOS`
+Lapp 使用 Swift 构建原生 macOS 体验，支持全局快捷键、应用检索、内联计算器、Web 搜索 fallback 和本地剪贴板历史。它会根据本地启动记录优化应用排序；应用索引、偏好和剪贴板数据均保留在本机。
+
+**技术重点：** Swift 原生开发、应用索引、键盘交互、本地数据管理、隐私和轻量化产品设计。
+
+[Product Page](https://qshine.github.io/Lapp/) · [Latest Release](https://github.com/qshine/Lapp/releases/latest) · [Source](https://github.com/qshine/Lapp)
+
+---
+
+## 我关注的工程原则
+
+**AI 要进入真实任务，才有工程价值。** 模型需要在具体流程中被使用、验证和改进。
+
+**后端能力决定 AI 功能能否稳定运行。** 数据、状态、错误和成本都需要明确的工程边界。
+
+**好工具应该降低操作成本，而不是增加新的工作台。** 产品最终要让用户更专注，而不是管理更多界面。
 
 <div align="center">
 
-*Build practical software. Learn deeply. Ship thoughtfully.*
+*Build useful systems. Turn intelligence into reliable software.*
 
 </div>
